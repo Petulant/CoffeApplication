@@ -1,3 +1,36 @@
-page-home {
+h6{
+    text-align: left;
+    color: white;
+}
+h5{
+    text-align: left;
+    color: white;
+}
 
+button[id="btn"]{
+    margin-left: 50px;
+    margin-right: auto;
+    top:50px;
+    border-radius: 30px;
+
+}
+button[id="but"]{
+    margin-left: 30px;
+    top:70px;
+}
+button[id="mybutt"]{
+    margin-left: 200px;
+    top:0px;
+    
+}
+label{
+    margin-left: 50px;
+    margin-right: auto;
+}
+.fontt{
+    color: brown;
+    font-size: 100%;
+}
+ion-content{
+    background: goldenrod !important;
 }
